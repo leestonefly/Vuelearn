@@ -23,7 +23,15 @@
     "dev": "webpack-dev-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stone Lee",
   "license": "ISC",
-  "description": ""
+  "description": "* npm init -y\r * npm install -g yarn\r * yarn add webpack webpack-cli --dev \r ##添加webpack.config.js 配置文件 \r 配置文件中添加`module.exports = {mode:'production'}`\r * yarn add webpack-dev-server --dev\r * yarn add --dev html-webpack-plugin\r ```\r 配置文件添加 \r const HtmlWebpackPlugin = require('html-webpack-plugin')\r module.exports = {\r   entry: 'index.js',\r   output: {\r     path: __dirname + '/dist',\r     filename: 'index_bundle.js'\r   },\r   plugins: [\r     new HtmlWebpackPlugin()\r   ]\r }\r ```\r * npx webpack-dev-server",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leestonefly/Vuelearn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leestonefly/Vuelearn/issues"
+  },
+  "homepage": "https://github.com/leestonefly/Vuelearn#readme"
 }
