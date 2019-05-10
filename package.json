@@ -1,32 +1,20 @@
 {
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "sass": "^1.20.1",
+    "vue": "^2.6.10"
+  },
   "name": "project",
   "version": "1.0.0",
-  "description": "* npm init -y\r * npm install -g yarn\r * yarn add webpack webpack-cli --dev \r ##添加webpack.config.js 配置文件 \r 配置文件中添加`module.exports = {mode:'production'}`\r * yarn add webpack-dev-server --dev\r * yarn add --dev html-webpack-plugin\r ```\r 配置文件添加 \r const HtmlWebpackPlugin = require('html-webpack-plugin')\r module.exports = {\r   entry: 'index.js',\r   output: {\r     path: __dirname + '/dist',\r     filename: 'index_bundle.js'\r   },\r   plugins: [\r     new HtmlWebpackPlugin()\r   ]\r }\r ```\r * npx webpack-dev-server",
-  "main": "index.html",
+  "main": "index.js",
+  "repository": "git@github.com:leestonefly/Vuelearn.git",
+  "author": "liyf <787441351@qq.com>",
+  "license": "MIT",
   "dependencies": {
-    "parcel": "^1.12.3",
-    "vue": "^2.6.10",
-    "vue-hot-reload-api": "^2.3.3"
-  },
-  "devDependencies": {
     "@vue/component-compiler-utils": "^3.0.0",
-    "parcel-bundler": "^1.12.3",
-    "sass": "^1.20.1",
+    "vue-hot-reload-api": "^2.3.3",
     "vue-template-compiler": "^2.6.10"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leestonefly/Vuelearn.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/leestonefly/Vuelearn/issues"
-  },
-  "homepage": "https://github.com/leestonefly/Vuelearn#readme",
   "alias": {
     "vue": "./node_modules/vue/dist/vue.common.js"
   }

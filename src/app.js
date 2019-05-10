@@ -6,6 +6,5 @@ new Vue({
     data: {
         message: 'hi'
     },
-    template:`<g-button></g-button>`,
 });
 
