@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2b26d2d-a082-40a9-9549-7e04583d764c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/button.js" afterDir="false" />
+    <list default="true" id="c2b26d2d-a082-40a9-9549-7e04583d764c" name="Default Changelist" comment="成功配置parcel">
+      <change afterPath="$PROJECT_DIR$/.cache/11/406583f6f9778ef38f039e9531a1f6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/18/4f5e1c247b4c77a5497c015d1e0d8f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/30/171a250caeea57885ec1f8a58bb3a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/3b/32538cbb787c71911bb6fb873d5b90.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/53/bac87439ed4cf9ee6e57b30b92fec9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/55/6e9ffc88c338739ebed09669852bcd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/71/54fddde447369c93188317839cfaab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7a/3c94e347561e83bd39298cf812109b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/7a/93428e30f0cb576f2073e238979cbe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/82/dd1122eef04a1ec79322c3d17ac4b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a0/7b1a204aa318b669cd8d420f5aa6cb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a7/943fe738ef1621dd6d0ee08fadfc56.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b7/1f1bef52b49c38b629eb54ca08f7fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/be/58a80db333a1df1bb80870810788ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vue/button.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vue.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,19 +43,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/button.js">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="325">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/parcel/src/Bundler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-128">
+              <caret line="273" column="28" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vue/button.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -46,8 +104,14 @@
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parcel</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,18 +126,21 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/b.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/css/text.sass" />
         <option value="$PROJECT_DIR$/src/a.js" />
         <option value="$PROJECT_DIR$/src/c.js" />
         <option value="$PROJECT_DIR$/src/pages/d.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/pages/a.js" />
         <option value="$PROJECT_DIR$/node_modules/vue/types/index.d.ts" />
         <option value="$PROJECT_DIR$/src/pages/button.js" />
+        <option value="$PROJECT_DIR$/src/pages/app.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/vue/button.vue" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -89,7 +156,9 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -112,13 +181,7 @@
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,20 +193,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/index.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/css/text.scss" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/index.js" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/css/text.scss" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\src" />
       <recent name="E:\project\src\css" />
       <recent name="E:\project\src\pages" />
-      <recent name="E:\project\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -189,11 +252,12 @@
       <workItem from="1557362994119" duration="2367000" />
       <workItem from="1557367780220" duration="8675000" />
       <workItem from="1557385264948" duration="1215000" />
+      <workItem from="1557450575870" duration="3948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30957000" />
+    <option name="totallyTimeSpent" value="35203000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -222,7 +286,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26819128" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33160084" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -233,9 +297,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/a.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/a.js" />
     <entry file="file://$PROJECT_DIR$/src/pages/b.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -243,12 +305,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yarn.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/a.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/a.html" />
     <entry file="file://$PROJECT_DIR$/src/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -289,16 +346,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vue.html" />
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vue/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -308,29 +355,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="825">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="1450">
+          <caret line="1082" column="26" selection-start-line="1082" selection-start-column="26" selection-end-line="1082" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/button.js">
+    <entry file="file://$PROJECT_DIR$/src/vue/button.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="125">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/parcel/src/Bundler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="273" column="28" selection-start-line="273" selection-start-column="17" selection-end-line="273" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="325">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

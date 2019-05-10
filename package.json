@@ -1,37 +1,33 @@
 {
   "name": "project",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "* npm init -y\r * npm install -g yarn\r * yarn add webpack webpack-cli --dev \r ##添加webpack.config.js 配置文件 \r 配置文件中添加`module.exports = {mode:'production'}`\r * yarn add webpack-dev-server --dev\r * yarn add --dev html-webpack-plugin\r ```\r 配置文件添加 \r const HtmlWebpackPlugin = require('html-webpack-plugin')\r module.exports = {\r   entry: 'index.js',\r   output: {\r     path: __dirname + '/dist',\r     filename: 'index_bundle.js'\r   },\r   plugins: [\r     new HtmlWebpackPlugin()\r   ]\r }\r ```\r * npx webpack-dev-server",
+  "main": "index.html",
   "dependencies": {
-    "echarts": "^4.2.1",
-    "vue": "^2.6.10"
+    "parcel": "^1.12.3",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
   },
-  "main": "index.js",
   "devDependencies": {
-    "css-loader": "^2.1.1",
-    "globby": "^9.2.0",
-    "html-webpack-plugin": "^3.2.0",
-    "node-sass": "^4.12.0",
-    "sass-loader": "^7.1.0",
-    "style-loader": "^0.23.1",
-    "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.2",
-    "webpack-dev-server": "^3.3.1"
+    "@vue/component-compiler-utils": "^3.0.0",
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.20.1",
+    "vue-template-compiler": "^2.6.10"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Stone Lee",
-  "license": "ISC",
-  "description": "* npm init -y\r * npm install -g yarn\r * yarn add webpack webpack-cli --dev \r ##添加webpack.config.js 配置文件 \r 配置文件中添加`module.exports = {mode:'production'}`\r * yarn add webpack-dev-server --dev\r * yarn add --dev html-webpack-plugin\r ```\r 配置文件添加 \r const HtmlWebpackPlugin = require('html-webpack-plugin')\r module.exports = {\r   entry: 'index.js',\r   output: {\r     path: __dirname + '/dist',\r     filename: 'index_bundle.js'\r   },\r   plugins: [\r     new HtmlWebpackPlugin()\r   ]\r }\r ```\r * npx webpack-dev-server",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leestonefly/Vuelearn.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/leestonefly/Vuelearn/issues"
   },
-  "homepage": "https://github.com/leestonefly/Vuelearn#readme"
+  "homepage": "https://github.com/leestonefly/Vuelearn#readme",
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
+  }
 }
