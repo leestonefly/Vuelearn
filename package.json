@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "@vue/component-compiler-utils": "^3.0.0",
+    "PubSub": "^3.6.0",
     "vue-hot-reload-api": "^2.3.3",
     "vue-template-compiler": "^2.6.10"
   },

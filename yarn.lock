@@ -775,6 +775,11 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
+PubSub@^3.6.0:
+  version "3.6.0"
+  resolved "https://registry.npm.taobao.org/PubSub/download/PubSub-3.6.0.tgz#b0c79ae78a7a140752b10bd90b1cfbde61962096"
+  integrity sha1-sMea54p6FAdSsQvZCxz73mGWIJY=
+
 abab@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/abab/download/abab-2.0.0.tgz#aba0ab4c5eee2d4c79d3487d85450fb2376ebb0f"
